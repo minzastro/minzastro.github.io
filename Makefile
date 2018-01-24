@@ -5,7 +5,7 @@ all: $(OBJS)
 
 
 pages/%.html: mds/%.md
-	pandoc -s --reference-links -r html $? -o $@ -t markdown_github
+	pandoc -s --reference-links  -r markdown_github -t html $? -o $@
 
 
 
