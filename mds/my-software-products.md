@@ -1,12 +1,14 @@
-[UniDAM (github)] - Unified tool for Distance, Age and Mass estimation
-(for stars). [Lookup (github)] - quick lookup information on a star in a
-variety of sources (Vizier, VSA, ESO archives)[tab\_calc] - general
-purpose tool for ASCII table processing; [Multiplot] - tool to plot data
-from multiple files in one line; [join\_num] - linux "join" tool clone
-with numeric-join support; [average\_files][join\_num] - average several
-files line-by-line; [IMEM (Interplanetary MEteoroid Model) + IMEM-GUI.];
-[FITS/VOTable to SQL converter]; [Tool to check if a position is covered
-by MOC map];
+#My software products#
+
+ - [UniDAM (github)] - Unified tool for Distance, Age and Mass estimation (for stars). 
+ - [Lookup (github)] - quick lookup information on a star in a variety of sources (Vizier, VSA, ESO archives)
+ - [tab\_calc] - general purpose tool for ASCII table processing
+ - [Multiplot] - tool to plot data from multiple files in one line
+ - [join\_num] - linux "join" tool clone with numeric-join support 
+ - [average\_files][join\_num] - average several files line-by-line
+ - [IMEM (Interplanetary MEteoroid Model) + IMEM-GUI.]
+ - [FITS/VOTable to SQL converter]
+ - [Tool to check if a position is covered by MOC map]
 
   [UniDAM (github)]: https://github.com/minzastro/unidam
   [Lookup (github)]: https://github.com/minzastro/lookup

@@ -2,6 +2,6 @@
 
 - <img src="images/linkedin-icon.png" alt="linkedin-icon" class="alignnone" width="20" height="20" /> LinkedIn
 - <img src="images/mendeley.png" alt="Alexey Mints&#39;s bibliography" class="alignnone wp-image-10" width="20" height="20" /> Mendeley Desctop
-- <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" class="alignnone wp-image-10" width="20" height="20" />GitHub
-- <img src="https://developer.atlassian.com/imgs/bitbucket.png" class="alignnone wp-image-10" width="20" height="20" />BitBucket
-- <img src="http://amints.files.wordpress.com/2014/02/deviantart-icon.gif" alt="deviantart-icon" class="alignnone wp-image-10" width="20" height="20" />Deviant Art
+- <img src="images/GitHub-Mark.png" class="alignnone wp-image-10" width="20" height="20" /> GitHub
+- <img src="images/bitbucket.png" class="alignnone wp-image-10" width="20" height="20" /> BitBucket
+- <img src="images/deviantart-icon.png" alt="deviantart-icon" class="alignnone wp-image-10" width="20" height="20" /> Deviant Art
