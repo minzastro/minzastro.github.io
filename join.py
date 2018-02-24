@@ -18,15 +18,19 @@ soup = BeautifulSoup(index, 'html.parser')
       <div style="height: 200px;"></div>
     </section>
 """
-for file in sys.argv[1:]:
+for file_line in open('config.dat', 'r').readlines():
+    file, image = file_line.split() 
+#for file in sys.argv[1:]:
     tag_image = soup.new_tag('section')
     tag_image['class'] = "py-5 bg-image-full"
-    tag_image['style'] = "background-image: url('images/sky-space-dark-galaxy.jpg');"
+    tag_image['style'] = "background-image: url('images/%s');" % image
+    tag_image['id'] = file.split('.')[0]
     div = soup.new_tag('div')
-    div['style'] = "height: 200px;"
+    div['style'] = "height: 100px;"
     tag_image.append(div)
     soup.footer.insert_before(tag_image)
-    soup2 = BeautifulSoup(' '.join(open(file).readlines()), 'html.parser')
+    soup2 = BeautifulSoup(' '.join(open('pages/%s' % file).readlines()),
+                          'html.parser')
     section = soup.new_tag('section')
     section['class'] = 'py-5'
     tag = soup2.body

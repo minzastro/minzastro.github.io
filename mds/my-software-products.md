@@ -1,6 +1,6 @@
 #My software products#
 
- - [UniDAM (github)] - Unified tool for Distance, Age and Mass estimation (for stars). 
+ - [UniDAM (github)] - Unified tool for Distance, Age and Mass estimation (for stars) [UniDAM data page](http://www2.mps.mpg.de/homes/mints/unidam.html UniDAM data page). 
  - [Lookup (github)] - quick lookup information on a star in a variety of sources (Vizier, VSA, ESO archives)
  - [tab\_calc] - general purpose tool for ASCII table processing
  - [Multiplot] - tool to plot data from multiple files in one line

@@ -27,18 +27,9 @@ Jobs:
 Programming experience:
 -----------------------
 
--   Fortran (77/90/95, Win/Linux, different compilers)
--   Python
--   JavaScript
--   XML/XSLT
--   HTML/CSS
--   Visual basic script
--   Bash shell script language
+-   Programming languages: Fortran (77/90/95, Win/Linux, different compilers, OpenMP/MPI/GPU), Python, Java, JavaScript, Bash shell script language, Visual Basic, Ruby
+-   Markup/web: XML/XSLT, HTML/CSS
 -   Databases: MS SQL Server, Informix, PostgreSQL, SQLite
--   Delphi 5-6
--   Ruby
--   OpenMP/MPI/GPU programming with FORTRAN
--   Java
 
   [Lyceum 239 with extensive learning of Physics and Mathematics]: http://www.sch239.spb.ru:8001/
   [Saint-Petersburg State University]: http://www.spbu.ru
