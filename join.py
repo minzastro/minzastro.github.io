@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import sys
 from glob import glob
 
-index = ' '.join(open('index.html').readlines())
+index = ' '.join(open('index_template.html').readlines())
 soup = BeautifulSoup(index, 'html.parser')
 """
     <!-- Image Section - set the background image for the header in the line below -->
