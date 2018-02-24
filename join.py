@@ -36,6 +36,9 @@ for file_line in open('config.dat', 'r').readlines():
     tag = soup2.body
     tag.name = 'div'
     tag['class'] = 'container'
+    #h1 = soup.new_tag('h2')
+    #h1.string = "Hohoho"
+    #tag.insert(0, h1)
     section.append(tag)
     soup.footer.insert_before(section)
 print(soup.prettify())
